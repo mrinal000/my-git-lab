@@ -1,3 +1,3 @@
-﻿Learning Git and GitHub
+Learning GitHub is fun!
 
  Editing from the cloud!
