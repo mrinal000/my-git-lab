@@ -1,3 +1,4 @@
-﻿Learning Git and GitHub
+﻿Learning Git is awesome!
 
- Editing from the cloud!
+Editing from the cloud!
+
